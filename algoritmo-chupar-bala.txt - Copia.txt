@@ -1,0 +1,7 @@
+1 - Pegar a Bala;
+2 - Se bala tem embalagem então
+	Tirar embalagem da bala;
+    fim se
+3 - Colocar a bala na boca;
+4 - Se a bala tem embalagem entao
+	Jogar embalagem no lixo;
